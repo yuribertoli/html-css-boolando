@@ -10,6 +10,10 @@
     margin: 50px auto;
 }
 
+.row {
+    margin-bottom: 40px;
+}
+
 .schede {
     max-width: 30%;
     display: inline-block;
