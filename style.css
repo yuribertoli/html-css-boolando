@@ -54,6 +54,20 @@
     font-weight: bold;
 }
 
+.product:hover img:first-child {
+    visibility: hidden;
+}
+
+.product img.imageunder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+
+
+
 
 
 
