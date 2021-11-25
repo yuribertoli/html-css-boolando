@@ -10,6 +10,12 @@
     margin: 50px auto;
 }
 
+.schede {
+    max-width: 30%;
+    display: inline-block;
+    margin: 0 15px;
+}
+
 .product img {
     width: 100%;
     height: auto;
@@ -17,7 +23,7 @@
 
 .product {
     position: relative;
-    max-width: 30%;
+    width: 100%;
 }
 
 .cuore {
