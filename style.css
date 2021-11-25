@@ -1,0 +1,25 @@
+.body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 50px auto;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+}
+
+.product {
+    position: relative;
+    max-width: 30%;
+}
+
+
+
+
+
